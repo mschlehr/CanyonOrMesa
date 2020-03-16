@@ -1,9 +1,7 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Mar 16 16:26:44 2020
 
-@author: matts
-"""
+def sup():
+    print("hellow world")
 
-#if inside 128x128 pixels 
-m lkamsnojlkdshna;osfn
+
+def main():
+    sup()
